@@ -1,4 +1,4 @@
-name: your-workflow-name
+name: model
 on: [push]
 jobs:
   run:
